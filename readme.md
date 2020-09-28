@@ -84,13 +84,13 @@
 
 ## Step3:实时预览文档前往 
 
-我们支持实时预览。仓库内的变更都可以实时在[发布页面](https://cms.docs.ucloudadmin.com/ucpublishnew.html)上点击“前往预览”进行查看。
+我们支持实时预览。仓库内的变更都可以实时在[发布页面](https://cms-docs.ucloudadmin.com/ucpublishnew.html)上点击“前往预览”进行查看。
 
 
 
 ## Step4:自由发布
 
-发布地址：[点击这里](https://cms.docs.ucloudadmin.com/ucpublishnew.html)![image-20200113184021386](../docs_new/images/image-20200113184021386.png)
+发布地址：[点击这里](https://cms-docs.ucloudadmin.com/ucpublishnew.html)![image-20200113184021386](../docs_new/images/image-20200113184021386.png)
 
 
 
@@ -158,7 +158,7 @@
 1. 在仓库根目录下创建一篇文档，命名为“_glossary.md”
 2. 文档格式，请参照下面模版
 3. 若其他文档中使用到词汇表中关键词，请在该关键词前后各加一个空格（如“ 云主机 ”）。发布后，该关键词将自动生成词汇链接，点击后方可跳转至词汇表中对应关键词解释。
-4. 范例：前往 [ULB概览](https://cms.docs.ucloudadmin.com/ulb/README) 点击“ULB”
+4. 范例：前往 [ULB概览](https://cms-docs.ucloudadmin.com/ulb/README) 点击“ULB”
 
 ``` markdown
 # 词汇表
