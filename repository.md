@@ -24,7 +24,7 @@
 
 * **文章标题请用H1**：当前文档标题需用一级标题样式，且文案应与sidebar.md内该文档的目录标题一致
 
-* **使用Markdown语法写文档**：文档正文写作需遵从github侧md要求，并及时前往[cms预览](https://cms-docs.ucloudadmin.com/)
+* **使用Markdown语法写文档**：文档正文写作需遵从github侧md要求，并及时前往[cms预览](cms.docs.ucloudadmin.com)
 
 >  预览样式不争取？**掌握自检技能，小问题快速解！**
 >
